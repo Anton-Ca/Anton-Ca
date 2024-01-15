@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 
 #### Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
+![Daphne](https://img.shields.io/badge/Daphne-092E20?style=flat&logo=daphne&logoColor=white)
 
 
 #### Database
