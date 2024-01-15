@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  <p> <i>Master of Science student in engineering physics with a focus on software development and data analysis with a passion for overcoming challenges. Loves to work in team spirit but also open to more independant work. My current pursuit is to acquire more knowledge within fullstack development and data driven decision making. Oh and it can be a bit messy in here, so shoot me a message if you can't find what you're looking for 😊 </i></p>
 
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" align="right" />
 
 ## 🙋‍♂️ About Me
 
@@ -102,6 +102,8 @@ Here are some ideas to get you started:
 <a href="mailto:anton-ca@outlook.com"><img width="85px" alt="Outlook" src="https://img.shields.io/badge/Outlook-0072C6?style=flat&logo=microsoft-outlook&logoColor=white" /></a> 
 
 </br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR6Zzh1aDZveWRkOGs4NzZ2d2VzN2o4OHVrNHRmYjFkcjgxMThzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif" width="99%" align="right" />
 
   </td>
  </tr>
