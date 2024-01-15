@@ -103,12 +103,13 @@ Here are some ideas to get you started:
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/anton-ca/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:anton-ca@outlook.com"><img width="85px" alt="Outlook" src="https://img.shields.io/badge/Outlook-0072C6?style=flat&logo=microsoft-outlook&logoColor=white" /></a> 
 
-</br>
-</br>
+
+
      
   </td>
 
  </tr>
 </table>
+</br>
 </br>
 
