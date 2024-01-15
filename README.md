@@ -53,13 +53,16 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=Csharp)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 
 
 #### Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
-![Daphne](https://img.shields.io/badge/Daphne-092E20?style=flat&logo=daphne&logoColor=white)
+![Daphne](https://img.shields.io/badge/Daphne-092E20?style=flat&logo=daphne&logoColor=white)&nbsp;
+![Daphne](https://img.shields.io/badge/Daphne-092E20?style=flat)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)&nbsp;
 
 
 #### Database
@@ -77,6 +80,8 @@ Here are some ideas to get you started:
 #### Data Analytics 
 
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-2C2D72?style=flat&logo=pytorch&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
 <!-- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp; -->
