@@ -103,7 +103,10 @@ Here are some ideas to get you started:
 
 </br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR6Zzh1aDZveWRkOGs4NzZ2d2VzN2o4OHVrNHRmYjFkcjgxMThzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif" width="99%" align="right" />
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR6Zzh1aDZveWRkOGs4NzZ2d2VzN2o4OHVrNHRmYjFkcjgxMThzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif" style="width: 100%;" />
+
+
 
   </td>
  </tr>
