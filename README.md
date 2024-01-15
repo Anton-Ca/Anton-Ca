@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Well Hello There👋, Welcome to My Github Profile!
+# Well Hello There Fellow Internet Traveler 👋 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=22&duration=1500&pause=1000&width=435&lines=Software+engineer...;Data+analyst...;Coffe+makes+code..." alt="Typing SVG" />
  
