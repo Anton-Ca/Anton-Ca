@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ## 🙋‍♂️ About Me
 
 </br>
+</br>
 
 - 🔧 I’m currently working on ...my portfolio website.
 
@@ -35,9 +36,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: anton-ca@outlook.com.
 
 <hr>
-
-
-
+</br>
 </br>
 
 
