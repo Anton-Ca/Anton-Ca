@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
-## ⚡🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 
 </br>
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 💡 I’m curious about ...Machine learning approaches and full stack development.
 - 📖 I’m currently learning ...Django with OpenSSL integration (next up postgres).
-- ❄️ I’m looking to collaborate on ...Data analysis related projects.
+- 👥 I’m looking to collaborate on ...Data analysis related projects.
 - 📫 How to reach me: anton-ca@outlook.com.
 
 <hr>
