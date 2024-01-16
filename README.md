@@ -1,19 +1,3 @@
-
-<!--
-**Anton-Ca/Anton-Ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Well Hello There Fellow Internet Traveler 👋 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=22&duration=1500&pause=1000&width=435&lines=Let+me+introduce+myself...;I'm+a+software+developer...;Data+analyst...;Coffe+to+code+converter" alt="Typing SVG" />
@@ -28,12 +12,11 @@ Here are some ideas to get you started:
 </br>
 </br>
 
-- 🔧 I’m currently working on ...my portfolio website.
-
-- 💡 I’m curious about ...Machine learning approaches and full stack development.
+- 🛠️ I’m currently working on ...my portfolio website.
+- 🔭 I’m curious about ...Machine learning approaches and full stack development.
 - 📖 I’m currently learning ...Django with OpenSSL integration (next up postgres).
 - 🤝 I’m looking to collaborate on ...Data analysis related projects.
-- ⚡ Fun fact ...anton spelled backwards is not na, that's because I'm from the EU.
+- ⚡ Fun fact ...Anton spelled backwards is not NA, that's because I'm from the EU.
 - 📫 How to reach me: anton-ca@outlook.com.
 
 <hr>
@@ -84,8 +67,6 @@ Here are some ideas to get you started:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-2C2D72?style=flat&logo=pytorch&logoColor=white)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=matplotlib&logoColor=white)
-<!-- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp; -->
-<!-- ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white) -->
      
 #### Environments
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)&nbsp;
@@ -104,10 +85,7 @@ Here are some ideas to get you started:
 
 </br>
 
-
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR6Zzh1aDZveWRkOGs4NzZ2d2VzN2o4OHVrNHRmYjFkcjgxMThzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif" style="width: 100%;" />
-
-
 
   </td>
  </tr>
