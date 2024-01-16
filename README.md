@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - 💡 I’m curious about ...Machine learning approaches and full stack development.
 - 📖 I’m currently learning ...Django with OpenSSL integration (next up postgres).
 - 🤝 I’m looking to collaborate on ...Data analysis related projects.
+- ⚡ Fun fact ...anton spelled backwards is not na, that's because I'm from the EU.
 - 📫 How to reach me: anton-ca@outlook.com.
 
 <hr>
