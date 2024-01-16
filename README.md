@@ -1,6 +1,6 @@
 # Well Hello There Fellow Internet Traveler 👋 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=22&duration=1500&pause=1000&width=435&lines=Let+me+introduce+myself...;I'm+a+software+developer...;Data+analyst...;Coffe+to+code+converter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=22&duration=1500&pause=1000&width=435&lines=Let+me+introduce+myself...;I'm+a+software+developer...;Data+analyst...;Coffe+to+code+converter+☕" alt="Typing SVG" />
  
  <p> <i>Master of Science student in engineering physics with a focus on software development and data analysis with a passion for overcoming challenges. Loves to work in team spirit but also open to more independant work. My current pursuit is to acquire more knowledge within fullstack development and data driven decision making. Oh and it can be a bit messy in here, so shoot me a message if you can't find what you're looking for 😊 </i></p>
 
