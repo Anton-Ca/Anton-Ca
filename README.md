@@ -76,7 +76,7 @@
 </td>
     <td width="50%" valign="top">
   
-## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
+## &nbsp; &nbsp; 📬📥 &nbsp; Connect with Me
 
 <br/>
 
