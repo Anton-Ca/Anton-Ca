@@ -4,21 +4,25 @@
  
  <p> <i>Master of Science student in engineering physics with a focus on software development and data analysis with a passion for overcoming challenges. Loves to work in team spirit but also open to more independant work. My current pursuit is to acquire more knowledge within fullstack development and data driven decision making. Oh and it can be a bit messy in here, so shoot me a message if you can't find what you're looking for 😊 </i></p>
 
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" align="right" />
+</br>
 
 ## 🙋‍♂️ About Me
 
 </br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="33%" align="right" />
+
 </br>
 
-- 🛠️ I’m currently working on ...my portfolio website.
-- 🔭 I’m curious about ...Machine learning approaches and full stack development.
-- 📖 I’m currently learning ...Django with OpenSSL integration (next up postgres).
-- 🤝 I’m looking to collaborate on ...Data analysis related projects.
-- ⚡ Fun fact ...Anton spelled backwards is not NA, that's because I'm from the EU.
+- 🛠️ I’m currently working on - shh it's a secret.
+- 🔭 I’m curious about - Data, Development and AI.
+- 📖 I’m currently learning - Agentic workflows.
+- 🤝 I’m looking to collaborate on - Data analysis related projects.
+- ⚡ Fun fact - Anton spelled backwards is not NA, that's because I'm from the EU.
 - 📫 How to reach me: anton-ca@outlook.com.
 
+</br>
+</br>
 <hr>
 </br>
 </br>
@@ -67,12 +71,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-2C2D72?style=flat&logo=pytorch&logoColor=white)&nbsp;
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-103451?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiMxMDM0NTEiLz48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMloiIGZpbGw9IiNmZmYiIGZpbGwtb3BhY2l0eT0iMC4xIi8+PHBhdGggZD0iTTEyIDR2MTZNNCAxMmgxNiIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIvPjwvc3ZnPg==&logoColor=white)&nbsp;
      
 #### Environments
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;   
+![VS Code](https://badgen.net/badge/icon/vscode?icon=visualstudio&label)&nbsp;   
 
 </td>
     <td width="50%" valign="top">
