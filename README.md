@@ -50,6 +50,7 @@
 #### Database
 
 ![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
+![MySQL](https://img.shields.io/badge/My-SQL-F29111?style=flat&logo=mysql&logoColor=blue)&nbsp;
 
 #### Tools and Technologies
 
@@ -71,7 +72,7 @@
 #### Environments
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;   
 
 </td>
     <td width="50%" valign="top">
