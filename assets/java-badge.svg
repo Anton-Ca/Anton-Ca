@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="102" height="20" role="img">
+  <linearGradient id="smooth" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+
+  <!-- Full badge background -->
+  <rect rx="3" width="102" height="20" fill="#150458"/>
+
+  <!-- Left icon block -->
+  <rect rx="3" width="20" height="20" fill="#150458"/>
+
+  <!-- Java logo (scaled to fit 20px block) -->
+  <g transform="translate(4,3) scale(0.045)" fill="#F89820">
+    <!-- Steam -->
+    <path d="M200 0c-20 40 80 60 80 100s-60 60-60 60 40-20 40-60-60-60-60-100z"/>
+    <!-- Cup -->
+    <path d="M120 160h160s20 0 20 20-20 20-20 20H120s-20 0-20-20 20-20 20-20z"/>
+    <!-- Base -->
+    <path d="M140 220h120s20 0 20 20-20 20-20 20H140s-20 0-20-20 20-20 20-20z"/>
+  </g>
+
+  <!-- Badge text -->
+  <text x="28" y="14" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+    Java
+  </text>
+
+  <!-- Gloss overlay -->
+  <rect rx="3" width="102" height="20" fill="url(#smooth)"/>
+</svg>
