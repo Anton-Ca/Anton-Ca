@@ -4,24 +4,24 @@
     <stop offset="1" stop-opacity=".1"/>
   </linearGradient>
 
-  <!-- Left icon background -->
+  <!-- Full badge background (single piece) -->
+  <rect rx="4" width="150" height="28" fill="#232F3E"/>
+
+  <!-- Left icon block (same color, but visually separated by padding) -->
   <rect rx="4" width="40" height="28" fill="#232F3E"/>
 
-  <!-- Right badge background -->
-  <rect rx="4" x="40" width="110" height="28" fill="#555"/>
-
-  <!-- Gradient overlay -->
-  <rect rx="4" width="150" height="28" fill="url(#smooth)"/>
-
-  <!-- AWS logo (scaled + centered) -->
-  <g transform="translate(6,4) scale(0.7)">
-    <text x="10" y="14" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF">AWS</text>
+  <!-- AWS logo scaled + centered inside left block -->
+  <g transform="translate(8,5) scale(0.55)">
+    <text x="10" y="14" font-family="Arial, sans-serif" font-size="18" fill="#FFFFFF">AWS</text>
     <path d="M10 18 C20 24,40 24,55 18" stroke="#FF9900" stroke-width="2" fill="none"/>
     <path d="M55 18 L52 15 L58 16 Z" fill="#FF9900"/>
   </g>
 
-  <!-- Badge text -->
-  <text x="55" y="18" font-family="Arial, sans-serif" font-size="13" fill="#fff">
+  <!-- Badge text (aligned like shields) -->
+  <text x="50" y="18" font-family="Arial, sans-serif" font-size="13" fill="#FFFFFF">
     Amazon AWS
   </text>
+
+  <!-- Gloss gradient overlay -->
+  <rect rx="4" width="150" height="28" fill="url(#smooth)"/>
 </svg>
