@@ -12,7 +12,7 @@
 
   <!-- AWS logo scaled + centered inside left block -->
   <g transform="translate(8,5) scale(0.55)">
-    <text x="10" y="14" font-family="Arial, sans-serif" font-size="18" fill="#FFFFFF">AWS</text>
+    <text x="10" y="21" font-family="Arial, sans-serif" font-size="18" fill="#FFFFFF">AWS</text>
     <path d="M10 18 C20 24,40 24,55 18" stroke="#FF9900" stroke-width="2" fill="none"/>
     <path d="M55 18 L52 15 L58 16 Z" fill="#FF9900"/>
   </g>
