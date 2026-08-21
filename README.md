@@ -38,7 +38,7 @@
 #### Languages
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
+![Java](https://raw.githubusercontent.com/Anton-Ca/Anton-Ca/main/assets/java-badge.svg)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=Csharp)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
