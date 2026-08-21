@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="102" height="20" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="20" role="img">
   <defs>
     <linearGradient id="smooth" x2="0" y2="100%">
       <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
@@ -7,7 +7,7 @@
   </defs>
 
   <!-- Full badge background -->
-  <rect rx="3" width="102" height="20" fill="#150458"/>
+  <rect rx="3" width="60" height="20" fill="#150458"/>
 
   <!-- Left icon block -->
   <rect rx="3" width="20" height="20" fill="#150458"/>
@@ -53,5 +53,5 @@
   </text>
 
   <!-- Gloss overlay -->
-  <rect rx="3" width="102" height="20" fill="url(#smooth)"/>
+  <rect rx="3" width="60" height="20" fill="url(#smooth)"/>
 </svg>
