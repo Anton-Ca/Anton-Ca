@@ -39,7 +39,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://raw.githubusercontent.com/Anton-Ca/Anton-Ca/main/assets/java-badge.svg)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=Csharp)&nbsp;
+![C#](https://raw.githubusercontent.com/Anton-Ca/Anton-Ca/main/assets/c-sharp-badge.svg)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
