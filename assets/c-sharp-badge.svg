@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="102" height="20" role="img">
+  <defs>
+    <linearGradient id="smooth" x2="0" y2="100%">
+      <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+      <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Full badge background -->
+  <rect rx="3" width="102" height="20" fill="#150458"/>
+
+  <!-- Left icon block -->
+  <rect rx="3" width="20" height="20" fill="#150458"/>
+
+  <!-- C# icon -->
+  <g transform="translate(1,3) scale(0.045)">
+    
+    <!-- Outer stroked hexagon (C# motif) -->
+    <path d="
+      M220 40 
+      L300 80 
+      L300 160 
+      L220 200 
+      L140 160 
+      L140 80 
+      Z"
+      fill="none"
+      stroke="#FFFFFF"
+      stroke-width="18"
+      stroke-linejoin="round"/>
+
+    <!-- Stroked arc “C” -->
+    <path d="M210 110 A55 55 0 0 1 210 190"
+          fill="none"
+          stroke="#FFFFFF"
+          stroke-width="20"
+          stroke-linecap="round"/>
+
+    <!-- # symbol (two vertical + two horizontal thin rectangles) -->
+    <!-- Vertical bars -->
+    <rect x="255" y="110" width="14" height="80" fill="#FFFFFF"/>
+    <rect x="285" y="110" width="14" height="80" fill="#FFFFFF"/>
+
+    <!-- Horizontal bars -->
+    <rect x="240" y="135" width="80" height="14" fill="#FFFFFF"/>
+    <rect x="240" y="165" width="80" height="14" fill="#FFFFFF"/>
+
+  </g>
+
+  <!-- Badge text -->
+  <text x="28" y="14" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+    C#
+  </text>
+
+  <!-- Gloss overlay -->
+  <rect rx="3" width="102" height="20" fill="url(#smooth)"/>
+</svg>
