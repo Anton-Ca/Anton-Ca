@@ -1,8 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="102" height="20" role="img">
-  <linearGradient id="smooth" x2="0" y2="100%">
-    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
-    <stop offset="1" stop-opacity=".1"/>
-  </linearGradient>
+  <defs>
+    <linearGradient id="smooth" x2="0" y2="100%">
+      <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+      <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+  </defs>
 
   <!-- Full badge background -->
   <rect rx="3" width="102" height="20" fill="#150458"/>
@@ -10,14 +12,39 @@
   <!-- Left icon block -->
   <rect rx="3" width="20" height="20" fill="#150458"/>
 
-  <!-- Java logo (scaled to fit 20px block) -->
-  <g transform="translate(4,3) scale(0.045)" fill="#F89820">
-    <!-- Steam -->
-    <path d="M200 0c-20 40 80 60 80 100s-60 60-60 60 40-20 40-60-60-60-60-100z"/>
-    <!-- Cup -->
-    <path d="M120 160h160s20 0 20 20-20 20-20 20H120s-20 0-20-20 20-20 20-20z"/>
+  <!-- Java logo -->
+  <g transform="translate(1,3) scale(0.045)">
+    <!-- Curved steam strokes -->
+    <path fill="#F89820"
+          d="M150 -10c-28 40 48 50 48 92s-36 64-36 64 26-22 26-58-44-48-38-98z"/>
+    <path fill="#F89820"
+          d="M190 0c-20 34 52 44 52 78s-34 58-34 58 22-20 22-52-40-44-40-84z"/>
+
+    <!-- Cup body -->
+    <path fill="#FFFFFF"
+          d="M140 180h120c16 0 24 8 24 20s-8 20-24 20h-120c-16 0-24-8-24-20s8-20 24-20z"/>
+
+    <!-- Cup inner cut -->
+    <path fill="#150458"
+          d="M150 188h100c10 0 16 6 16 12s-6 12-16 12h-100c-10 0-16-6-16-12s6-12 16-12z"/>
+
+    <!-- Saucer -->
+    <path fill="#FFFFFF"
+          d="M130 232h140c18 0 26 8 26 16s-8 16-26 16h-140c-18 0-26-8-26-16s8-16 26-16z"/>
+
     <!-- Base -->
-    <path d="M140 220h120s20 0 20 20-20 20-20 20H140s-20 0-20-20 20-20 20-20z"/>
+    <path fill="#FFFFFF"
+          d="M150 276h100c14 0 22 8 22 16s-8 16-22 16h-100c-14 0-22-8-22-16s8-16 22-16z"/>
+
+    <!-- Stem -->
+    <rect x="196" y="168" width="8" height="20" fill="#FFFFFF"/>
+
+    <!-- Handle: moved exactly 1px left (≈22 units), same shape/thickness/size -->
+    <path d="M305 225 A32 32 0 0 1 305 295"
+          fill="none"
+          stroke="#FFFFFF"
+          stroke-width="18"
+          stroke-linecap="round"/>
   </g>
 
   <!-- Badge text -->
