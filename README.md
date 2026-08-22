@@ -1,5 +1,7 @@
 # Well Hello There Fellow Internet Traveler 👋 
 
+</br>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=22&duration=1500&pause=1000&width=435&lines=Let+me+introduce+myself...;I'm+a+software+developer...;Data+analyst...;☕+Coffe+to+code+converter+👨‍💻" alt="Typing SVG" />
  
  <p> <i>Master of Science student in engineering physics with a focus on software development and data analysis with a passion for overcoming challenges. Loves to work in team spirit but also open to more independant work. My current pursuit is to acquire more knowledge within fullstack development and data driven decision making. Oh and it can be a bit messy in here, so shoot me a message if you can't find what you're looking for 😊 </i></p>
@@ -22,8 +24,6 @@
 - 📫 How to reach me: anton-ca@outlook.com.
 
 </br>
-</br>
-<hr>
 </br>
 </br>
 
@@ -80,17 +80,19 @@
 </td>
     <td width="50%" valign="top">
   
-## &nbsp; &nbsp; 👥 &nbsp; Connect
+##  &nbsp; 👥  Connect
 
 <br/>
 
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/anton-ca/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:anton-ca@outlook.com"><img width="85px" alt="Outlook" src="https://img.shields.io/badge/Outlook-0072C6?style=flat&logo=microsoft-outlook&logoColor=white" /></a> 
+<p align="center">
+<a href="https://www.linkedin.com/in/anton-ca/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:anton-ca@outlook.com"><img width="100px" alt="Outlook" src="https://img.shields.io/badge/Outlook-0072C6?style=flat&logo=microsoft-outlook&logoColor=white" /></a> 
+</p> 
 
 </br>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR6Zzh1aDZveWRkOGs4NzZ2d2VzN2o4OHVrNHRmYjFkcjgxMThzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif" style="width: 100%;" />
-
+&nbsp;&nbsp;&nbsp;&nbsp;
   </td>
  </tr>
 </table>
