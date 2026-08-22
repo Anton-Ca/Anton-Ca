@@ -80,19 +80,16 @@
 </td>
     <td width="50%" valign="top">
   
-##  &nbsp; 👥  Connect
+##  👥  Connect
 
-<br/>
+&nbsp;
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR6Zzh1aDZveWRkOGs4NzZ2d2VzN2o4OHVrNHRmYjFkcjgxMThzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif" style="width: 100%;" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <p align="center">
 <a href="https://www.linkedin.com/in/anton-ca/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:anton-ca@outlook.com"><img width="100px" alt="Outlook" src="https://img.shields.io/badge/Outlook-0072C6?style=flat&logo=microsoft-outlook&logoColor=white" /></a> 
 </p> 
-
-</br>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR6Zzh1aDZveWRkOGs4NzZ2d2VzN2o4OHVrNHRmYjFkcjgxMThzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif" style="width: 100%;" />
-&nbsp;&nbsp;&nbsp;&nbsp;
   </td>
  </tr>
 </table>
